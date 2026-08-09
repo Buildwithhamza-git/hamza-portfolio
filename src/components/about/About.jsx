@@ -24,12 +24,12 @@ export default function About() {
         <div className="mt-14 grid gap-12 lg:grid-cols-12 lg:gap-8">
           <div className="lg:col-span-5">
             <p className="max-w-md text-[15px] leading-relaxed text-muted">
-              Hamza Sarwar is a Computer Science graduate and Full-Stack Developer focused on
+              I am a Computer Science graduate and Full-Stack Developer focused on
               building modern web applications, AI-powered systems, and scalable software
               solutions.
             </p>
             <p className="mt-5 max-w-md text-[15px] leading-relaxed text-muted">
-              He works primarily with the MERN stack and Python-based AI/ML technologies — turning
+              I works primarily with the MERN stack and Python-based AI/ML technologies — turning
               ideas into products that are clean, fast, and built to last.
             </p>
 
