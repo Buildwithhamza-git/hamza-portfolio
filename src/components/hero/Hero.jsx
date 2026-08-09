@@ -199,7 +199,7 @@ export default function Hero() {
       </div>
 
       {/* scroll indicator */}
-      <div className="hero-scroll-hint absolute bottom-8 left-1/2 z-10 -translate-x-1/2 text-center">
+      <div className="hero-scroll-hint absolute bottom-8 left-1/2 z-10 hidden -translate-x-1/2 text-center md:block">
         <div className="font-mono text-[10px] tracking-[0.3em] text-faint">SCROLL TO EXPLORE</div>
         <div className="mx-auto mt-3 h-14 w-px overflow-hidden bg-line-strong">
           <div className="scroll-line-anim h-full w-full bg-accent" />
